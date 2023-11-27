@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+header  {
+    background-color: #0d6efd;
+}
+
+#top_header {
+    padding: 10px;
+    margin: 0;
+}
+
+#footer-container {
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+}
+
+.profile {
+    padding: 12px;
+}
+
+.profile-btn {
+    width: 200px;
+}
+
+.table {
+    margin-top: 16px;
+}
+
+.box {
+    border: 1px solid black;
+    padding: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
